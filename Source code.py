@@ -1,4 +1,4 @@
-CODED IN PYTHON3.13: (code for networkkillswitch1) (my computer was giving me problems so I had to upload it this way.) - By LiquiditySweep-FVG
+#CODED IN PYTHON3.13: (code for networkkillswitch1) (my computer was giving me problems so I had to upload it this way.) - By LiquiditySweep-FVG
 
 import subprocess #allows for commands to be ran
 from colorama import init, Fore # colours
@@ -62,4 +62,5 @@ def main():
 
 if __name__ == "__main__":
     main() # this is essentially just something to put at the end of every code from now on, it stops it from ending basically. thats not what it is, but thats what it essentially does.
+
 
